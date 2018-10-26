@@ -39,6 +39,6 @@ INSERT INTO dbo.Indicadores
            ,Valor)
      VALUES
            ('SELIC'
-           ,'Taxa Referencial - Sistema de Liquidacao e Custodia
+           ,'Taxa Referencial - Sistema de Liquidacao e Custodia'
            ,'2018-09-19'
            ,0.065)
